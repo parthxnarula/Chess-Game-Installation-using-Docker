@@ -1,6 +1,6 @@
 # Chess-Game-Installation-using-Docker
 
-https://github.com/user-attachments/assets/6175d1c4-1003-4169-97a8-b29dffb70c13
+https://github.com/user-attachments/assets/ceef3703-5cd9-4382-9aba-cc8c557820e3
 
 # *Introduction*
 # **Docker Chess is a containerized application for Scid vs. PC. Stockfish 14 chess engine has been configured.**
