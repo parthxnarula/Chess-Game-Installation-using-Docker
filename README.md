@@ -8,5 +8,9 @@ https://github.com/user-attachments/assets/ceef3703-5cd9-4382-9aba-cc8c557820e3
 # *Build Docker Image*
 **docker pull bign8/games**
 
-# *Run Docker*
+# *Run the Docker Container*
  **docker run -d -p 4000:4000 --name games bign8/games:latest**
+
+# *Run the Docker Container*
+**Access the Chess Game: Open your browser and navigate to:**
+http://localhost:4000
