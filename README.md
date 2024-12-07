@@ -15,3 +15,7 @@ Docker ensures that the game runs in an isolated environment, making it convenie
 # *Run the Docker Container*
 **Access the Chess Game: Open your browser and navigate to:**
 http://localhost:4000
+
+# *Credits*
+
+This Chess game container is provided by the Docker Hub Repository- bign8/games on Docker Dekstop.
